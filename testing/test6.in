@@ -1,0 +1,5 @@
+load students;
+
+select Lastname, Minor from students;
+
+//missing column

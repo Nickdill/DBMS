@@ -1,0 +1,6 @@
+load students;
+create table new ( name, age, year );
+print new;
+select SID from students, new;
+select SID from new, students;
+select SID from new, students where SID > '102';

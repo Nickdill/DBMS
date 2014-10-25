@@ -1,0 +1,5 @@
+load students ;
+insert into students values '103', 'Gillespie' ;
+quit ;
+
+//insert too few
