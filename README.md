@@ -1,6 +1,8 @@
 DBMS
 -----------
 
+|[About](https://github.com/Nickdill/DBMS#about)|[Usage](https://github.com/Nickdill/DBMS#usage)|[Testing](https://github.com/Nickdill/DBMS#testing)|
+|---|---|---|
 ####Relational Database Management System
 
 This program is written in Java, and basically allows the user to create and store a database of tables, written as <file name>.db files.
