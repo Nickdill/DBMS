@@ -19,6 +19,21 @@ Load a table from a .db file.
 Store a table to a .db file.
 
     store <table name>;
+Create a new table in the database.
+
+    create table <table name> ( <column name>,+ );
+Create a new table in the database from loaded tables.
+
+    create table <table name> as select <column names> from <table names> where <conditions>;
+Select rows from an existing table.
+
+    select <column names> from <table names> where <conditions>;
+Insert rows into a table.
+
+    insert into <table names> values <column values>;
+Print a table.
+
+    print <table name>;
 
 
 ##Testing
@@ -26,6 +41,12 @@ Store a table to a .db file.
 ####Makefile
 Coming Soon.
 
+####README Progress
+
+- [ ] Installation
+- [x] Commands
+- [ ] Makefile
+- [x] Completed
 
 ##Goodbye
 Thanks for checking out my project, and have an awesome day. You deserve it.
