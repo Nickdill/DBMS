@@ -5,20 +5,30 @@ DBMS
 
 This program is written in Java, and basically allows the user to create and store a database of tables, written as <file name>.db files.
 
-##USAGE
--------------------
+##Usage
+
 ####Installation
 This section coming soon, as this program was build on OSX and has yet to be tried on other platforms.
 
 ####Commands
 This program operates on a basic query language.
 
-To load a table from a .db file.
+Load a table from a .db file.
+
     load <table name>;
+Store a table to a .db file.
+
+    store <table name>;
 
 
--------------------
-####Testing
+##Testing
+
+####Makefile
+Coming Soon.
+
+
+##Goodbye
+Thanks for checking out my project, and have an awesome day. You deserve it.
 
 Cheers!
 
