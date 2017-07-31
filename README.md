@@ -1,15 +1,15 @@
-#DBMS
-####Relational Database Management System
+# DBMS
+#### Relational Database Management System
 |[About](https://github.com/Nickdill/DBMS#about)|[Usage](https://github.com/Nickdill/DBMS#usage)|[Testing](https://github.com/Nickdill/DBMS#testing)|
 |---|---|---|
 This program is written in Java, and basically allows the user to create and store a database of tables, written as <file name>.db files.
 
-##Usage
+## Usage
 
-####Installation
+#### Installation
 This section coming soon, as this program was build on OSX and has yet to be tried on other platforms.
 
-####Commands
+#### Commands
 This program operates on a basic query language.
 
 Load a table from a .db file.
@@ -35,19 +35,19 @@ Print a table.
     print <table name>;
 
 
-##Testing
+## Testing
 
-####Makefile
+#### Makefile
 Coming Soon.
 
-####README Progress
+#### README Progress
 
 - [ ] Installation
 - [x] Commands
 - [ ] Makefile
 - [x] Completed
 
-##Goodbye
+## Goodbye
 Thanks for checking out my project, and have an awesome day. You deserve it.
 
 Cheers!
