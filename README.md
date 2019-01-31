@@ -35,18 +35,6 @@ Print a table.
     print <table name>;
 
 
-## Testing
-
-#### Makefile
-Coming Soon.
-
-#### README Progress
-
-- [ ] Installation
-- [x] Commands
-- [ ] Makefile
-- [x] Completed
-
 ## Goodbye
 Thanks for checking out my project, and have an awesome day. You deserve it.
 
@@ -54,4 +42,4 @@ Cheers!
 
 ==========
 
-Check out my [website](https://nicholasdill.com) if you've got a minute to spare!
+Check out my [website](http://nicholasdill.com) if you've got a minute to spare!
